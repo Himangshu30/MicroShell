@@ -74,8 +74,8 @@ Users have the flexibility to specify various parameters: the `IP address`, `lis
 ██║░╚═╝░██║██║╚█████╔╝██║░░██║╚█████╔╝  ██████╔╝██║░░██║███████╗███████╗███████╗
 ╚═╝░░░░░╚═╝╚═╝░╚════╝░╚═╝░░╚═╝░╚════╝░  ╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝
 
-Author: Senzee
-Github Repository: https://github.com/senzee1984/micr0_shell
+Author: @Himangshu
+Github Repository: https://github.com/Himangshu30/MicroShell
 Description: Dynamically generate PIC Null-Free Reverse Shell Shellcode
 Attention: In rare cases (.255 and .0 co-exist), generated shellcode could contain NULL bytes, E.G. when IP is 192.168.0.255
 
